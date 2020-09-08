@@ -3,5 +3,6 @@ public class HW1 {
         System.out.println("      _      _      _     --------------");
         System.out.println("   __(.)< __(.)> __(.)= < Hello, world!|");
         System.out.println("   [___)  [___)  [___)    --------------");
+        
     }
 }
